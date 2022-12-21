@@ -5,4 +5,3 @@ This is my first repository on Github.
 Akash Rajput
 New text for second commit
 Updated text for second commit to see if the changes are made in main folder in second commit.
-Updated text for fourth commit to see if the changes are made in main folder in second commit.
